@@ -48,7 +48,7 @@ Through this research, I developed an understanding of:
 **Issue:** 35s  
 **Year:** 2026  
 **Pages:** 116–127  
-**DOI:** **DOI:** [10.25258/ijddt.16.35s.15](https://doi.org/10.25258/ijddt.16.35s.15)
+**DOI:** [10.25258/ijddt.16.35s.15](https://doi.org/10.25258/ijddt.16.35s.15)
 
 ## 👨‍🔬 Authors
 
