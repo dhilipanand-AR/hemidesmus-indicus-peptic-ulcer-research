@@ -4,7 +4,7 @@
 
 This published review explores the preventative and therapeutic potential of coumarin compounds from *Hemidesmus indicus* against peptic ulcer disease.
 
-The study reviews scientific evidence related to the plant's phytochemicals, antioxidant, anti-inflammatory, gastroprotective, and anti-ulcer properties.
+The study reviews scientific evidence related to the plant's phytochemicals, antioxidant, anti-inflammatory, gastroprotective and anti-ulcer properties.
 
 ## 🎯 Research Focus
 
