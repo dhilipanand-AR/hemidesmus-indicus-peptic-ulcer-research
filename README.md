@@ -22,6 +22,14 @@ The review examined previously published scientific studies and compared finding
 
 Computational approaches such as molecular docking were also reviewed to understand possible interactions between bioactive compounds and relevant target proteins.
 
+## 🔎 Research Highlights
+
+- Reviewed the potential biological activities of *Hemidesmus indicus*.
+- Explored coumarin and other bioactive compounds.
+- Reviewed antioxidant, anti-inflammatory, and gastroprotective effects.
+- Examined previously published anti-ulcer studies.
+- Reviewed molecular docking and bioinformatics approaches reported in the literature.
+
 ## 🧠 Key Learning
 
 Through this research, I developed an understanding of:
@@ -54,4 +62,4 @@ Gandepalli Pratap Kumar, Ponnudhurai R, Gangadharan R, Kabesh A, Mageshwara P T,
 
 ### 🌱 Research • Learn • Explore
 
-*Exploring the connection between medicinal plants, bioactive compounds, and biotechnology.*
+*Exploring the connection between medicinal plants, bioactive compounds and biotechnology.*
